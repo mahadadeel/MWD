@@ -25,6 +25,11 @@
 #
 #I don't have much to say besides that really. I hope at the very least this program is functional, I've done some testing of my own and it hasn't seemed to collapse
 #yet. At least I have that. Anyways, I shall leave the rest of the speaking to the program itself.
+#
+#UPDATE: 27/9/2020 - I want to also reference my result from the Data Structures Test. I should've done so much better and the quality from that test was very poor.
+#Once again I'm really let down with myself for the marks I got. I'm not requesting to be pardoned for my result but I want to apologise for not giving my full
+#effort into learning the topic. Much of what I revised slipped out of my mind, I have the capability to have gotten full marks but my results speak for themselves.
+#I feel demoralised, it's stopping me from giving my everything.
 
 ## -- MAIN BODY AND PERITHERAL FUNCTIONS --
 
